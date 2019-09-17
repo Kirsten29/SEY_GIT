@@ -19,3 +19,7 @@ class TestBasicClass(unittest.TestCase):
         
 if __name__ == '__main__':
     unittest.main()
+
+
+#dit is een oefening
+# En dit ook
