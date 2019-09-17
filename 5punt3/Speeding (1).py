@@ -20,3 +20,5 @@ def speeding(x):
 
 boete = speeding(40)
 print(boete)
+
+#ook deze heb ik Geert aangepast
